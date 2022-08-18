@@ -21,7 +21,8 @@ go build
 ```
 
 You can also alter its behavior with different flags:
-`-r` - Colors each path to make each one more visually distinguishable
+
+`-r` - Colors each path to make each one more visually distinguishable <br>
 `-n` - Numbers each path so keep track of how many paths are in $PATH.
 
 ### Limitations
